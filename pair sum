@@ -1,0 +1,5 @@
+def pairsum(arr ,n,x)
+      for i in range(n):
+          for j in range (i,n)
+               if arr[i]=arr[j] == x:
+                    print(arr[i],arr[j]
